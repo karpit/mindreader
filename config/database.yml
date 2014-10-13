@@ -1,0 +1,7 @@
+development:
+  adapter: mysql2
+  database: mindreader_dev
+  username: root
+  password:
+  host: localhost
+  port: 3306
